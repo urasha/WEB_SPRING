@@ -29,4 +29,6 @@ coverage
 
 *.tsbuildinfo
 
+# Config editor files
 .editorconfig
+eslint.config.js
